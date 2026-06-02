@@ -209,22 +209,6 @@ http://localhost:5173
 
 ---
 
-## Resume Description
-
-* Developed a full-stack Car Rental Management System using Spring Boot, React, Hibernate, and MySQL, enabling vehicle listing, booking, and rental management.
-
-* Implemented secure authentication, RESTful APIs, and database persistence using Spring Security, JPA, and Hibernate following enterprise-level architecture patterns.
-
-* Designed and integrated responsive frontend components with scalable backend services, improving maintainability and user experience.
-
----
-
-## GitHub About Section
-
-Full-stack Car Rental Management System built with Spring Boot, React, Hibernate, and MySQL featuring vehicle listing and booking management.
-
----
-
 ## Topics
 
 ```text
